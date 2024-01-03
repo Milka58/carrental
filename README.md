@@ -49,6 +49,4 @@ Logging
 Testing
 The exercise should take no longer than a couple of hours but you will be given 7 days in which to complete it. You can use any resources at your
 disposal in order to complete the challenge just as you would in the workplace.
-Once you have complete the exercise, please send an email to GR-tech-test@gresearch.co.uk including a link to your private GitHub repo (which
-has been granted access to the gr-coding-challenge account) along with any notes you would like us to consider.
-Ensure the solution can run without runtime user input, prefer input parameters instead.
+
